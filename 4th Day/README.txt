@@ -1,4 +1,1 @@
-This file requires a quick sort if you take the input from the site
-
-
-I've used excel to quickly format the input and then put it in data.in
+The input data requires a quick sort if you take it from the site because it isn't in the right order and I couldn't sort it in the main.cpp itself, because of my lack of motivation and and the bright idea to use excel to quickly format the input and then put it in data.in
